@@ -1,0 +1,38 @@
+_repo: Heath-s-Modern-Language-Series--El-trovador_29677
+_version: 0.1.0
+contributor:
+  annotator:
+    agent_name: Vaughan, Herbert Hunter
+    birthdate: &id001 1884
+    gutenberg_agent_id: '34074'
+    url: http://www.gutenberg.org/2009/agents/34074
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: García Gutiérrez, Antonio
+    aliases:
+    - Gutiérrez, Antonio García
+    - Garcia Gutierrez, Antonio
+    - Gutiérrez, A. G. (Antonio García)
+    birthdate: 1813
+    deathdate: *id001
+    gutenberg_agent_id: '34073'
+    url: http://www.gutenberg.org/2009/agents/34073
+    wikipedia: http://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa_Guti%C3%A9rrez
+description: ''
+gutenberg_bookshelf: Opera
+gutenberg_issued: '2009-08-12'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '29677'
+language: es
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcc 'PQ'
+- !lcsh 'Spanish drama'
+title: 'Heath''s Modern Language Series: El trovador'
+url: http://www.gutenberg.org/ebooks/29677
