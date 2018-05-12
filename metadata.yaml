@@ -3,7 +3,7 @@ _version: 0.1.0
 contributor:
   annotator:
     agent_name: Vaughan, Herbert Hunter
-    birthdate: &id001 1884
+    birthdate: 1884
     gutenberg_agent_id: '34074'
     url: http://www.gutenberg.org/2009/agents/34074
 covers:
@@ -17,11 +17,13 @@ creator:
     - Garcia Gutierrez, Antonio
     - Gutiérrez, A. G. (Antonio García)
     birthdate: 1813
-    deathdate: *id001
+    deathdate: 1884
     gutenberg_agent_id: '34073'
     url: http://www.gutenberg.org/2009/agents/34073
     wikipedia: http://en.wikipedia.org/wiki/Antonio_Garc%C3%ADa_Guti%C3%A9rrez
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/29677#Heath-s-Modern-Language-Series--El-trovador
 gutenberg_bookshelf: Opera
 gutenberg_issued: '2009-08-12'
 gutenberg_type: Text
